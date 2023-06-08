@@ -26,7 +26,7 @@
             {
                 Console.WriteLine("\nМеню:");
                 Console.WriteLine(MenuChooseGladiators + " - Выбрать гладиатора");
-                Console.WriteLine(MenuShowAllDescription + " - А можно всех посмотреть?");
+                Console.WriteLine(MenuShowAllDescription + " - Характеристики бойцов");
                 Console.WriteLine(MenuFight + " - Бой!");
                 Console.WriteLine(MenuExit + " - Выход");
 
